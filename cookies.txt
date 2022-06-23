@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.vanlanguni.edu.vn	TRUE	/	FALSE	1999999999	90c3bc411f3ca2ae0062552b462792b6	lh2570kc3aidcq6mf90eb2mpib
-
